@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViniciusLussani!
-- 👀 I’m ooking for a job in software development
+- 👀 I’m looking for a job in software development
 - 🌱 I’m currently learning JavaScript, HTML, CSS, REACT, TypeScript, MySql and so on
 - 📫 How to reach me => viniciuslussani@gmail.com
 
